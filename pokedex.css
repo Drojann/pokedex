@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+.main{
+    width: 600px;
+    height: auto;
+    background-color: crimson;
+    padding: 2em;
+    margin: 0 auto;
+    text-align: justify;
+    align-items: center;
+    border-radius: 1em;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    min-height: 100vh;
+
+    
+}
+
+.button{
+    background-color: rgb(241, 240, 238);
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
